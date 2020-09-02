@@ -1,5 +1,5 @@
 # DarkSideMoon_Script
-Unity1週間ゲームジャム　お題「ふえる」に投稿した「月の裏側」のスクリプトです。 
+Unity1週間ゲームジャム　お題「ふえる」に投稿した「月の裏側」のスクリプトです。  
 プレイはこちら↓  
 [UnityRoomの作品ページ 月の裏側](https://unityroom.com/games/temo_darksidemoon)
 
@@ -10,36 +10,36 @@ Photonオンライン機能の実装に利用
 [アセットストアページ](https://assetstore.unity.com/packages/tools/network/pun-2-free-119922)
 
 ### ・DOTween (HOTween v2)
-簡単な動きと、遅延実行に利用
+簡単な動きと、遅延実行に利用  
 [アセットストアページ](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
 ### ・NCMB
-ランキングと、死体データの格納・復帰に利用
+ランキングと、死体データの格納・復帰に利用  
 [アセットストアページ](https://assetstore.unity.com/packages/tools/animation/dotween-hotween-v2-27676)
 
 ### ・unityroom-tweet
-ツイート機能に利用
-[アセットストアページ](https://github.com/naichilab/unityroom-tweet)
+ツイート機能に利用  
+[リンク](https://github.com/naichilab/unityroom-tweet)
 
 ### ・unity-simple-ranking
-ランキング機能に利用
-[アセットストアページ](https://blog.naichilab.com/entry/webgl-simple-ranking)
+ランキング機能に利用  
+[リンク](https://blog.naichilab.com/entry/webgl-simple-ranking)
 
 ### ・naichilab/Unity-FadeManager
-暗転するシーンの切り替えに利用
-[アセットストアページ](https://github.com/naichilab/Unity-FadeManager)
+暗転するシーンの切り替えに利用  
+[リンク](https://github.com/naichilab/Unity-FadeManager)
 
 ### ・naichilab/Unity-BgmManager
-BGM再生に利用
-[アセットストアページ](https://github.com/naichilab/Unity-BgmManager)
+BGM再生に利用  
+[リンク](https://github.com/naichilab/Unity-BgmManager)
 
 ### ・am1tanaka/OpenSimpleFramework201801
-この中のSoundControllerをSoundManagerとして、変名・改造し利用
-[アセットストアページ](https://github.com/am1tanaka/OpenSimpleFramework201801)
+この中のSoundControllerをSoundManagerとして、変名・改造し利用  
+[リンク](https://github.com/am1tanaka/OpenSimpleFramework201801)
 
 ### ・SimpleAnimation
-Animatorとか使わないで、アニメーションする
-[アセットストアページ](https://github.com/Unity-Technologies/SimpleAnimation)
+Animatorとか使わないで、アニメーションする  
+[リンク](https://github.com/Unity-Technologies/SimpleAnimation)
 
 ## ソースの簡単な解説
 * ●●Controller : 動くモノ 
